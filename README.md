@@ -10,3 +10,11 @@ Sinta-se à vontade para explorar mais sobre esse projeto e suas funcionalidades
 🔗 Deploy
 
 Acesso à implementação da API está acessível através do seguinte URL base: https://rocketnotes109.netlify.app/
+
+💡 Tanto o Frontend quanto o aplicativo Mobile dependem da operacionalidade do Backend para funcionarem corretamente.
+
+### Pré-requisitos
+Antes de baixar o projeto você vai precisar ter instalado na sua máquina as seguintes ferramentas:
+
+* git
+* node
