@@ -10,6 +10,6 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
   <a href="#-contato">Contatos</a>
 </p>
 <p align="center">
-  <img alt="License" src="https://github.com/devwagnerdw/Rocketnotes-backend/assets/103940637/b5782d60-1e30-46fc-926b-583c87fb1337">
+  <img alt="License" src="https://github.com/devwagnerdw/Rocketnotes-backend/assets/103940637/b5782d60-1e30-46fc-926b-583c87fb1337">>
 ">
 </p>
